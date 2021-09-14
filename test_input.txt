@@ -1,0 +1,32 @@
+4
+P B
+P A
+D A
+D B
+6
+P A
+P B
+P C
+C
+D C
+D A
+7
+P D
+P B
+C
+P A
+P B
+D B
+D A
+6
+P B
+P C
+D C
+P E
+D E
+D B
+4
+P E
+P D
+D D
+D A
